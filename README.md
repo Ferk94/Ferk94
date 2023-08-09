@@ -1,7 +1,7 @@
-# 💫 About Me:
+
 <h1 align="center">Hola 👋, soy Fernando Kaganovicz</h1>
 <h3 align="center">FullStack Developer de Argentina</h3>
-<br><br><br>Soy un desarrollador en constante crecimiento<br>personal, afrontando desafíos y actualizando<br>mis habilidades acorde a lo que el mercado requiere.<br>
+
 
 
 ## 🌐 Socials:
