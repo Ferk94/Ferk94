@@ -3,7 +3,6 @@
 <h3 align="center">FullStack Developer de Argentina</h3>
 
 
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fgithub%2Ffollowers%2FFerk94%3Flabel%3DFollowers%26style%3Dsocial)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-kaganovicz-fullstack/) 
