@@ -2,6 +2,7 @@
 <h1 align="center">Hola 👋, soy Fernando Kaganovicz</h1>
 <h3 align="center">FullStack Developer de Argentina</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferk94&label=Profile%20views&color=0e75b6&style=flat" alt="ferk94" /> </p>
 
 
 ## 🌐 Socials:
