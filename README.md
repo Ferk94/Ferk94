@@ -65,11 +65,10 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=wordpress&logoColor=white)
 
 ### 🤖 Inteligencia Artificial
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-12100E?style=flat&logo=chainlink&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20%2F%20ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FFD700?style=flat&logo=anthropic&logoColor=black)
+
 
 ---
 
